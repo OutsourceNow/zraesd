@@ -1,0 +1,7 @@
+{
+  "name": "zraesd",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
